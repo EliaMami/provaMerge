@@ -23,7 +23,9 @@ namespace GitTest
         public MainWindow()
         {
             InitializeComponent();
+
             MessageBox.Show("prova");
+
         }
     }
 }
